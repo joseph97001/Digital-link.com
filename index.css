@@ -1,0 +1,14 @@
+.law{
+    background-color:greenyellow;
+    color: white;
+    
+    justify-content: space-between;
+}
+.law:hover{
+    cursor: pointer;
+    text-decoration:ghostwhite;
+    background-color:goldenrod;
+    padding: 3px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+}
